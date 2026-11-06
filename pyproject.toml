@@ -1,6 +1,6 @@
 [project]
 name = "ebcdic-code-page-kit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Decode and encode IBM EBCDIC Code Page 037 byte data in pure Python."
 requires-python = ">=3.10"
 dependencies = []
